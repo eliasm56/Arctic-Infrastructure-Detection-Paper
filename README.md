@@ -8,6 +8,9 @@ in the Arctic Using Sub-Meter Spatial Resolution Satellite Imagery.
 Remote Sens. 2022, 14, 2719. https://doi.org/10.3390/rs14112719
 ```
 
+![image](https://user-images.githubusercontent.com/77365021/212496433-098696e1-0929-4fdd-843e-de3e02cdd529.png)
+
+
 Link: https://www.mdpi.com/2072-4292/14/11/2719
 
 Requirements:
