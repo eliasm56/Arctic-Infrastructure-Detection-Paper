@@ -10,6 +10,21 @@ Remote Sens. 2022, 14, 2719. https://doi.org/10.3390/rs14112719
 
 Link: https://www.mdpi.com/2072-4292/14/11/2719
 
+Requirements:
+```
+PYTHON==3.6.8, 3.7 will work too
+
+1) torch==1.10.1+cu113 
+2) torchvision==0.11.2+cu113
+3) segmentation-models-pytorch==0.2.1
+4) albumentations==1.2.1
+5) tensorflow-gpu==2.4.1
+6) opencv-python
+7) imagecodecs
+8) matplotlib
+9) natsort
+```
+
 Citation
 ```
 @Article{rs14112719,
