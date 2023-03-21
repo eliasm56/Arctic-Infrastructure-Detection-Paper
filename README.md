@@ -1,5 +1,5 @@
 # Arctic-Infrastructure-Detection-Paper
-Code for paper:
+This repository contains the code for the peer-reviewed study cited below:
 
 ```
 Manos, E.; Witharana, C.; Udawalpola, M.R.; Hasan, A.; Liljedahl, A.K. 
